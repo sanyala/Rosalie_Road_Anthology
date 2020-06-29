@@ -1,0 +1,47 @@
+--- 
+title: "Anthology for the Rosalie Road Group "
+author: "Members of the Rosalie Road Group "
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: sanyala/Rosalie_Road_Anthology
+##url: 'http\://seankross.com/bookdown-start/'
+description: "Writings from the members of the Rosalie Road Group."
+---
+
+# Foreward by Gouri Datta{-}
+
+Some thoughts come as fleeting butterflies and float away. Some turn into more solid ideas and establish roots. A few of these ideas, nurtured by the soil and water of interest, in the company like minded friends with the desire to create, turn into a compelling call to lift their boughs to the sky and do something. 
+
+The idea of forming an English writing group with some of my friends with a literary bent - came to me over twenty years ago. However, the push to actually start a group as such came five years later. A group, writing in Bengali, called “ Lekhoni” had already been established at our house and met one Sunday a month since 1999. An initial mom and pop type gathering had blossomed into a stable club of nearly twenty-one Bengali writers.
+
+The success of that gave rise to ambitions of expanding our creative writing repertoire. Why not an English writing group for those of us who are bilingual or only English speaking. I called a few friends. The language lovers amongst my friends, both Americans and Indian, immediately formed a small ragtag group, with varying writing skills in English but all of them diehard literature lovers.
+
+The original joiners were Manisha Roy (an anthropologist and an Jungian analyst), Carl von Essen (a physician) - a husband and wife team, Rahul Ray (a scientist and researcher for the Department of Medicine at Boston University), Abhijit Sanyal (a marketing executive), Nilay Mukherjee (a research scientist in the bio- engineering field, Kunal Joarder (a robotics engineer ) and myself, Gouri Datta (a psychiatrist ).
+
+There were others who came for varying periods of time but stopped due to moving out of state, lack of time, or simply because they lost interest. Members who joined later included Nila Rakhit (an accountant and tax specialist), and Jia Roy (a fellow in Creative Writing and publishing at Harvard University)
+
+This core group of members still forms the basic central axle of the entity since the last 15 years.Saborna  Roychowdhury , a writer and member of the prestigious Grub Street writing club of Boston, was a member for a year, but then had to move to Houston with her family. She subsequently published a novel based on the Naxalite times in India that was well received and acclaimed.  Sudeshna Sen, an English teacher, moved to Minnesota. Fariza Hassan joined us for a few months, and then had to leave due to other issues.Srila Sridhar (a business woman) came for a few sessions, and then left to attend to family and business matters. 
+
+The group started meeting one Sunday a month around the dining table at our house on Rosalie Road in Newton, MA. This became the chosen permanent venue due to convenience of its central position and the ubiquitous availability of that dining table. Each of the sessions ran for three hours, from 2 to 5 pm, an apt time for most families involved, being after lunch and before the dinner hurly burly. In each session members’ writings were reviewed on a first come first served basis, adding up to two writings reviewed per session. Almost all genres of writing were par for the course - poetry, short stories, excerpts from a novel, plays, memoir pieces, essays, all except translations.
+
+The author would send in his or her creative writing piece to the other members, electronically, at least one week ahead of the meeting and, would also bring in some paper copies for the visual representation. On the day of the meeting, the author would read aloud to the rest of the group. The rest of the members would take turns to critique the piece in terms of language, syntax, structure of the piece, theme, characters etc. and make suggestions for improvement or to remove redundant verbiage. Refreshments were provided during the meeting, snacks brought in by turns by the members, and accompanied by tea offered by the host. 
+
+This helped to assuage the sting of the criticisms, and also to keep the mind focused on the task at hand, instead of drifting towards a well - needed afternoon rest or siesta for people busy at work all week. In the second year of its existence, a thought about giving a name to the group came up. Each member came up with a suggestion that was duly weighed by the group for acceptability. Manisha’s suggestion was “The Rosalie Road Writers Group “. I jumped at that as it was the address of our house where the meetings were held. It pleased my narcissism that the house would become a permanent part of the history of this writing group, I imagined (in an inflated state of fantasy) posterity viewing it as a place of literary pilgrimage, as much as Emerson’s house was the meeting place for Branson Alcott, Henry Thoreau, and other thinkers, writers and philosophers of that century! The naming of the group was done.
+
+Then arose thoughts of publishing an anthology of the collected writings of the group, not only as a means of crowning our efforts, but also to document the progress of style and voice in our writings. We had seen other writing groups successfully publish collections of their members writings, the Bengali counterpart, Lekhoni, having already published two anthology books.  Thus, was floated the plan for Rosalie Rd Writers Anthology. 
+
+Two co-editors were chosen by common consensus, Carl and Abhijit - both being more diligent than several of the others, though all were dedicated to the art of creative writing. Carl had already published several books before joining the RR group, his favorite topics being adventures in nature, namely fishing and sailing, medical themes, his Swedish heritage and spirituality. He had also spent several years in India, and a couple of the stories in this collection reflect those experiences, as in   “Yelllamma“. Carl had also established his own publishing company called “Shyamol Publishers “. The word Shyamol ‘derived from a Sanskrit word meaning green, a word used frequently in Bengali and Hindi speaking parts of India.
+
+Abhijit had contributed about eleven remarkable memoir pieces, touching on growing up in Iraq as a very young child, and tongue in cheek humorous essays about various aspects of his life, including his self - perceived quirks.He is also handling the repository of the collected writings, and Carl and he are editing all pieces. Abhijit was also the pioneer in another ancillary writing project a couple of years ago, This was for a novel written jointly by all the members, with each member writing a chapter, and Abhijit choosing the title of “The Strength of Weak Ties“ and starting off with the first chapter. This novel will be our next publication once the current anthology sees the day. 
+
+Carl chose the design, color and format of the front cover of the anthology book.Abhijit whipped out his camera, went outside to the front yard and took three pictures of the house and the magenta foliage of the Japanese cherry tree, standing as a sentinel in the center of the lawn. One of the three pictures was voted in.
+
+There was much debate on the format of the book - but finally a simple form in a binder, like the review book for schools, was selected. This-was as a way to keep costs low, the group being small — a way to document our efforts without breaking the bank. We all agreed with that practical decision.
+
+This anthology is a collection of all the writings of this group since its inception, some of us being less prolific than others. The birthing pain for this project has been prolonged and the forward progression slow, due to members having other lives. I was myself, was late in delivering the Foreword, as I was assailed by a severe writers’ block.
+
+Moving forward the rest will be easier, and, hopefully, the Rosalie Road Anthology will be in all the members’ desks, if not in all the book stores of Boston, as is our future dream.

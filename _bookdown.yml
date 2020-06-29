@@ -1,0 +1,38 @@
+book_filename: "Rosalie_Road_Anthology"
+chapter_name: "Chapter "
+repo: https://github.com/sanyala/Rosalie_Road_Anthology
+output_dir: docs
+rmd_files: ["index.Rmd","01-Coming-to-America-A-Prequel-by-Abhijit-Sanyal.Rmd", 
+"02-Penurious-Graduate-Student-by-Abhijit-Sanyal.Rmd",
+"03-Job-Hunting-During-A-Recession-Abhijit-Sanyal.Rmd",
+"04-My-School-Days-in-Baghdad-and-Calcutta-Abhijit-Sanyal.Rmd",
+"05-Shearing-shortening-and-embellishing-your-name-the-American-way-by-Abhijit-Sanyal.Rmd",
+"06-Sounds-and-memories-of-my-childhood-by-Abhijit-Sanyal.Rmd",
+"07-To-oblivion-and-back-by-Abhijit-Sanyal.Rmd",
+"08-The-story-of-two-Qasims-by-Abhijit-Sanyal.Rmd",
+"09-Hoar-frost-and-the-conscious-universe-by-Dr-Carl-Von-Essen.Rmd",
+"10-Reaching-the-other-side-by-Dr-Carl-Von-Essen.Rmd",
+"11-Yellama-by-Dr-Carl-Von-Essen.Rmd",
+"12-New-Years-Thoughts-by-Dr-Gouri-Datta.Rmd",
+"13-The-Showing-by-Dr-Gouri-Datta.Rmd",
+"14-Cremation-by-Manisha-Roy.Rmd",
+"15-California-Stories-Welcome-to-California-Part-1-by-Manisha-Roy.Rmd",
+"16-California-Stories-Welcome-to-California-Part-2-by-Manisha-Roy.Rmd",
+"17-And-then-there-was-Amsterdam-by-Nilay-Mukherjee.Rmd",
+"18-The-Marijuana-Talk-by-Nilay-Mukherjee.Rmd",
+"19-Niagra-Falls-by-Nilay-Mukherjee.Rmd",
+"20-Rishi-comes-home-from-Debate-by-Nilay-Mukherjee.Rmd",
+"21-Give-me-Knowledge-by-Nilay-Mukherjee.Rmd",
+"22-The-World-is-what-it-is-by-Nilay-Mukherjee.Rmd",
+"23-Urinal-Etiquette-by-Nilay-Mukherjee.Rmd",
+"24-Friendship-A-Tale-of-Two-Immigrants-by-Nilanjana-Rakhit.Rmd",
+"25-The-Angel-of-Tucson-by-Nilanjana-Rakhit.Rmd",
+"26-A-Moment-in-Time-by-Nilanjana-Rakhit.Rmd",
+"27-Debdas-Romanticism-and-Sex-Workers-by-Rahul-Ray.Rmd",
+"28-Satiating-Mind-National-Public-Radio-NPR-by-Rahul-Ray.Rmd"]
+clean: [packages.bib, bookdown.bbl]
+
+
+
+
+
