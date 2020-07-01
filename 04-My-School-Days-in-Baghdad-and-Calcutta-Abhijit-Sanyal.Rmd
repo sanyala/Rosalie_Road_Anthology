@@ -8,10 +8,14 @@ In 1964, my father took leave from Indian Airlines in Calcutta and joined Iraqi 
 My sister and I joined a French school run by the French Dominican order in the old quarters of Baghdad, housed in a church and convent dating to the time of the Crusades. The school was housed alongside the church in a beautiful stone building with huge windows, tall graceful wooden doors and stone arches with lovely stone carvings on the abutments. There was also a small luxuriant rose garden which was a riot of colors in the winter and spring. We learnt Mathematics, History, Geography, French Literature and Science in the French language. I had no introduction to the French language or culture except for one solitary picnic to Chandanagore, a onetime French colony near Calcutta where we visited the churches. 
 
 I and my sister struggled, but I was able to learn and converse in the language within a few months. My prized possession from that period is a tattered Tintin comic book, in French, “Le Trésor de Rackham le Rouge” (Red Rackham’s Treasure) by Belgian cartoonist Hergé which I received as a prize for recitation in French. I still have that book. I was eight years old.  
- 
-FIGURE 1: RECEIVING A PRIZE FOR RECITATION AT THE FRENCH SCHOOL IN BAGHDAD, 1964
- 
-FIGURE 2: LE TRESOR DE RACKHAM LE ROUGE (RED RACKHAM'S TREASURE)
+
+```{r echo=FALSE, out.width = '50%', out.height="50%", fig.cap="Receiving the Le Tresor De Rackham Le Rouge as a Prize for Recitation at the French School in Baghdad, 1964"}
+knitr::include_graphics("images/A_Sanyal_receiving_prize_Baghdad.png")
+```
+
+```{r echo=FALSE, out.width = '50%', out.height="50%", fig.cap="Le Tresor De Rackham Le Rouge (Red Rackham's Treasure)"}
+knitr::include_graphics("images/Red_Rackhams_Treasure.png")
+```
 
 Within the first few years we became reasonably fluent in French and Arabic. After two years, my parents moved us to a school run by a Mr. and Mrs. Hartley an expatriate British couple where the language of instruction was English. The school had children from the expatriate community in Baghdad and my friends were from all over the world. It was a great experience; the academic materials were easy, and I breezed through school spending most of my time playing various outdoor games that we would make up with my friends in the hot midday sun.
 

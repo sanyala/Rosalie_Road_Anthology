@@ -14,6 +14,10 @@ description: "Writings from the members of the Rosalie Road Group."
 
 # Foreward by Gouri Datta{-}
 
+```{r fig.align='center', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html')}
+knitr::include_graphics("images/RR_cover_photo.png")
+```
+
 Some thoughts come as fleeting butterflies and float away. Some turn into more solid ideas and establish roots. A few of these ideas, nurtured by the soil and water of interest, in the company like minded friends with the desire to create, turn into a compelling call to lift their boughs to the sky and do something. 
 
 The idea of forming an English writing group with some of my friends with a literary bent - came to me over twenty years ago. However, the push to actually start a group as such came five years later. A group, writing in Bengali, called “ Lekhoni” had already been established at our house and met one Sunday a month since 1999. An initial mom and pop type gathering had blossomed into a stable club of nearly twenty-one Bengali writers.

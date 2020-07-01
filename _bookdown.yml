@@ -2,6 +2,7 @@ book_filename: "Rosalie_Road_Anthology"
 chapter_name: "Chapter "
 repo: https://github.com/sanyala/Rosalie_Road_Anthology
 output_dir: docs
+delete_merged_file: true
 rmd_files: ["index.Rmd","01-Coming-to-America-A-Prequel-by-Abhijit-Sanyal.Rmd", 
 "02-Penurious-Graduate-Student-by-Abhijit-Sanyal.Rmd",
 "03-Job-Hunting-During-A-Recession-Abhijit-Sanyal.Rmd",

@@ -5,7 +5,10 @@ The rising sun lit the barren peaks of the Jawadhi Hills with shades of rose and
 “Ayo,” one of them called, “Let us hurry to finish planting before the sun gets too hot.”
 “Yellamma!” Another woman cried in her shrill voice, “You were trying to get out of working all day yesterday too! Today we must finish the whole field. 
  
-                                           PLANTING THE PADDY SEEDLINGS
+```{r echo=FALSE, out.width = '50%', out.height="50%", fig.cap="Planting the Paddy Seedlings"}
+knitr::include_graphics("images/Carl_planting_paddy_seeds.png")
+```
+                                           
 
 Yellamma said nothing. At twenty-five she was younger than the others and thus was the last in the line. The red sari was already tucked between her legs like a men’s dhoti. She was ready for the arduous task of planting seedlings of rice one by one, carefully spaced in the muddy loam that the men had furrowed the day before. 
 
@@ -14,14 +17,20 @@ Her eyes betrayed the weeks of constant pain and difficulty in eating enough to 
 Then there was the village healer, Govindaswami, but she was afraid of what he might do, remembering the screams of the men and women who had gone for his treatment.
 Appiah, her husband was fearful, too, and had tried to ignore her complaints. He was busy, anyway, in dealing with the panchayat, plowing the fields and loading the ripened and threshed paddy onto the village’s bullock cart for the overnight journey to the market town. His mother, Chinamma, lived with them, cooked and looked after the 
 children. 
- 
-                              CHINAMMA
+
+```{r echo=FALSE, out.width = '50%', out.height="50%", fig.cap="Chinamma"}
+knitr::include_graphics("images/Carl_Chinamma.png")
+```
+                            
 
 She was a small, bright-eyed and witty woman who loved to gossip and was even friendly with her daughter-in-law, but had a foreboding of what was happening and was going to happen. Chinamma had already started cooking softer rice with curds that Yellamma could swallow. Even the breakfast upma was too hard for her painful mouth.
 
 The village lay in the center of the fertile valley. The simple huts with roofs of thatched Palmyra leaves were scattered around a deep well and shielded from the sun by coconut palms, peepal, papaya and mango trees. There were no doors or windows, just openings in the walls of sun burnt brick and clay. Small outhouses and cattle sheds ensured the sanitary state of the village, while the courtyards were swept clean by the women every morning. The men stayed aloof from these mundane chores. They were responsible for the germination and cultivation of the young paddy plants, the maintenance and operation of the irrigation system, plowing, transporting and selling of the threshed and winnowed paddy, and various vegetables in the market. 
 
-                                           PREPARING FOR PLANTING
+```{r echo=FALSE, out.width = '50%', out.height="50%", fig.cap="Preparing for Planting"}
+knitr::include_graphics("images/Carl_Preparing_for_planting.png")
+```                                         
+
 
 The elders, all men, the panchayat governing the area, lounged most days in the village center, smoking bidis and gossiping.  
 
@@ -64,8 +73,10 @@ They met up with Appiah, who had spent the day bartering and selling the paddy, 
 
 **3. Decision**
 Govindaswami shook his head. “The mission doctors will only take our money and try to make her a Christian before she dies.” The village elders who were gathered around nodded. The oldest, Ramalingam, lean and frail, the village headman, listened quietly and then spoke firmly, “Appiah, the honor of the village and temple are at stake. How can she go to these mission people, surely bringing contamination back to our sacred land?”
- 
-                                                           RAMALINGAM AND GOVINDASWAMI
+
+```{r echo=FALSE, out.width = '50%', out.height="50%", fig.cap="Ramalingam and Govindaswami"}
+knitr::include_graphics("images/Carl_Ram_Govind.png")
+```
 
 Appiah felt a tremendous weight pressing him into the ground. What should he do? The priest too supported Govindaswami’s argument. Should Yellamma go through the traditional cure, the searing of the tumor, the application of salves, the blessing of the priest?  There was one person in the village that Appiah could turn to. Brahmasundaram, the son of Chittoor Doraiswami, the Brahmin who owned most of the village land, was visiting his family, on leave from medical studies in Madras. Surely, he could give an enlightened opinion.
 
@@ -97,9 +108,10 @@ Next morning the air was cold and smoke from the cooking fires lay over the vall
 
 **4. Return**
 Yellamma’s homecoming from the hospital came on the eve of Pongal. The entire village was in a happy turmoil of cleaning the houses and outbuildings, breaking and discarding old pots and utensils, reflooring the homes and grounds with fresh cow dung and clay slurry, and painting the cattle horns, carts and tools in festive colors.
- 
-                                                       PONGAL DECORATION
 
+```{r echo=FALSE, out.width = '50%', out.height="50%", fig.cap="Pongal Decoration"}
+knitr::include_graphics("images/Carl_pongal.png")
+``` 
 
 Yellamma was joyful to finally be back in her own home and village. She had recovered her taste, appetite and weight after the mysterious treatment that the mission doctors had called “radium.” She recounted her experiences repeatedly to fascinated audiences of men, women, and children: the mystery of the operating theater with the masked and robed doctors and nurses surrounding her as if in some sort of ancient ritual; of waking up in her hospital bed with  strange devices in her face and neck that remained several days; the pain and discomfort through that time, of taking only liquid nourishment, finally the removal of the magic needles but the continued pain relieved by injections of medicines that gave a wonderful feeling of pleasure; finally, after weeks, the return of comfort, taste, and the ability to eat normally.
 
