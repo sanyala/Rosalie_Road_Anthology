@@ -1,11 +1,4 @@
----
-title: "03-Job-Hunting-During-A-Recession-Abhijit-Sanyal"
-author: "Abhijit Sanyal"
-date: "6/22/2020"
-output: html_document
----
-
-# Job Hunting During A Recession by Abhijit Sanyal
+# Job Hunting During A Recession by Abhijit Sanyal {-}
 
 It was the summer of 1990 and we were on our way to Washington, DC for the annual American Marketing Association conference. The main objective of the conference was to act as a job market with employers – universities and business schools to meet and interview prospective employees – graduate students who were close to finishing their PhDs, as potential faculty starting in the fall of the following year. The business school had graciously decided to fund our hotel expenses for the duration of the conference, but we had to pay for own travel and meals. I decided to take my wife and our three-year-old son – we would  all stay in one room and have an opportunity for a low cost vacation. The hotel where the conference was being held was the Hyatt Regency Capitol – a grand hotel near the US Capitol and other Washington attractions.
 
